@@ -1,0 +1,6 @@
+C:\Users\Pc\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Pc\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Pc\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Pc\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Pc\source\repos\Project\Project\obj\Debug\Project.pdb
